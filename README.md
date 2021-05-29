@@ -25,7 +25,7 @@ Foi criado uma API que realiza um CRUD de clientes.
 
 ```
 # clonar no repositório
-- git clone https://github.com/pinhobrunodev/backend-bootcamp-santander.git
+- git clone https://github.com/pinhobrunodev/client-api-crud.git
 
 # executar o projeto
 - ./mvnw spring-boot:run
